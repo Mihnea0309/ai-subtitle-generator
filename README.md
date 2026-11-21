@@ -15,11 +15,9 @@ A local desktop application built with **Python** and **PyQt5** that automatical
 - **Media & Translation:** `python-vlc`, Google Translate API[cite: 12]
 
 ## Screenshots
-*(Încarcă imaginile în folderul `screenshots/` din repo și decomentează liniile de mai jos)*
-<!-- 
-![Main Interface](screenshots/main_ui.png)
-![Video Playback](screenshots/player_ui.png)
--->
+[Main Interface](screenshots/main_ui.png)
+[Video Playback](screenshots/player_ui.png)
+
 
 ## Installation & Setup
 
