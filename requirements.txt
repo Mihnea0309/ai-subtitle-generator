@@ -1,0 +1,6 @@
+openai-whisper
+torch
+PyQt5
+python-vlc
+deep-translator
+langdetect
